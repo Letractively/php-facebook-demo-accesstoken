@@ -44,9 +44,11 @@
     height:80px;
 	text-decoration:none;
 }
+.headerMain fb{
+    margin-left: 300px
+}
 .headerMain img{
 	border-radius: 15px;
-	margin-left:30px;	
 	border:1px solid #00739e;
     border-radius:5px;
 	margin-left:300px;
